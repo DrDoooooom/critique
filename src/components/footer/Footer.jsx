@@ -27,7 +27,7 @@ const Footer = () => {
         </div>
         <div className="socialIcons">
           <span className="icon">
-            <a href="mailto:swapnil200229@gmail.com" target="blank">
+            <a href="mailto:swapnil.woorrk@gmail.com" target="blank">
               <IoMdMail />
             </a>
           </span>
